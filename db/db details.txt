@@ -1,0 +1,3 @@
+Database - demo.
+Number of tables (existing) - 19.
+Modules enclosed-patient registration,doctor registration,nurse registration,appointment,bedavailability.
