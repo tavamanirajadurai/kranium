@@ -1,8 +1,0 @@
-<<<<<<< HEAD
-Database - demo.
-Number of tables (existing) - 19.
-=======
-Database - demo.
-Number of tables (existing) - 19.
->>>>>>> b1b358c2c8801b10122de185de37ddfe563d0ed2
-Modules enclosed-patient registration,doctor registration,nurse registration,appointment,bedavailability.
